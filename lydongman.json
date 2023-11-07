@@ -1,5 +1,3 @@
-//关注
-
 {
     "spider": "./spider.jar",
     "sites": [
